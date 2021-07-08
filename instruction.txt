@@ -1,0 +1,44 @@
+You are going to write a small key-word definition program/quiz.
+The “questions” are below ,and also in the link.
+
+
+Problem.
+Users will run the program:
+They will be displayed with a prompt to either see all the  keywords and their definitions
+Or take the quiz.
+
+If they choose to see keywords they are shown the list of keywords and their descriptions.
+
+If the choose to play the quiz, they will shown the descriptions and asked to enter the keyword.
+If the user enters the correct word, a point is added to their score.
+If the yenter incorrectly, they are shown a message with the correct answer,
+
+At the end of the quiz they are shown their results. They need more than 50% of the answers correct to pass.
+
+Keywords/descriptions:
+string
+text in python
+int
+function to turn strings into integer
+float
+function to turn strings into floats (numbers with decimal parts)
+list
+a datatype used to store multiple values
+for
+keyword used to repeat a certain number of times
+while
+keyword used to repeat until a condition is met
+if
+keyword used in selection between 2 or more options
+file
+function used to open a file
+readlines
+function used to read the contents of a file into a list
+split
+method to split an string into a list
+strip
+string method used to strip off blanks and non printable charactes from ends of a string
+ljust
+string method used to add blank spaces to the right of a string (left justify)
+rjust
+string method used to add blank spaces to the right of a string (left justify)
